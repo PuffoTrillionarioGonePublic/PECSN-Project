@@ -1,0 +1,9 @@
+.vscode/
+.settings/
+out/
+src/controltower
+src/Makefile
+src/*_m.cc
+src/*_m.h
+simulations/results
+**/.cmdenv-log
